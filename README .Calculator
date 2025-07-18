@@ -1,0 +1,80 @@
+# 📟 Calculator Using Python
+
+This project is a **simple calculator** implemented in Python inside a Jupyter Notebook.  
+It supports basic arithmetic operations like **addition, subtraction, multiplication, and division**, with a clean and easy-to-understand implementation.
+
+---
+
+## ✨ Features
+✅ Perform addition, subtraction, multiplication, and division  
+✅ Interactive input and output  
+✅ Implemented in a beginner-friendly way  
+✅ Runs directly in Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+```
+Calculator-Using-Python/
+│
+├── Calculator.ipynb     # Main Jupyter Notebook with calculator implementation
+├── README.md            # Project documentation
+├── .gitignore           # Ignored files (optional)
+└── LICENSE              # License file (optional)
+```
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- Python 3.x installed on your system
+- Jupyter Notebook installed
+
+Install Jupyter if you don’t have it:
+```bash
+pip install notebook
+```
+
+---
+
+### 📥 Clone the Repository
+```bash
+git clone https://github.com/<your-username>/Calculator-Using-Python.git
+cd Calculator-Using-Python
+```
+
+---
+
+### ▶️ Run the Notebook
+Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+Open **Calculator.ipynb** in the browser and run the cells to use the calculator.
+
+---
+
+## 🛠️ Customization
+Feel free to extend the calculator with:
+- ✅ Power and square root functions
+- ✅ Percentage calculation
+- ✅ A graphical interface (Tkinter, PyQt, etc.)
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+If you find a bug or want to add a feature:
+1. Fork the repo
+2. Create a new branch
+3. Submit a pull request
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+✨ **Happy Coding!** ✨
